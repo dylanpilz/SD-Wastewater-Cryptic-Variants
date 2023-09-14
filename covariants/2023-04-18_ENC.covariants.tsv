@@ -1,0 +1,3 @@
+Covariants	Count	Coverage_start	Coverage_end	Max_count	Freq
+T22714A(S:P384P)	21	22685	22716	55	0.38181818181818183
+(22713,1)(S:DEL385)	11	22685	22715	55	0.2

@@ -1,0 +1,19 @@
+Covariants	WW_Count	Clinical_Count	Lineages
+['S:K417N', 'S:N440E', 'S:L452Q']	12	0	NA
+['S:K417N', 'S:N440K', 'S:S443P', 'S:L452Q']	19	0	NA
+['S:K417N', 'S:N440K', 'S:L452Q', 'S:E465G']	15	0	NA
+['S:K417N', 'S:N440K', 'S:L441P', 'S:L452Q']	11	0	NA
+['S:K417N', 'S:N440K', 'S:D442Y', 'S:L452Q']	43	0	NA
+['S:K417N', 'S:N440K', 'S:D442G', 'S:L452Q']	10	0	NA
+['S:K417N', 'S:S438P', 'S:N440K', 'S:L452Q']	12	0	NA
+['S:K417T', 'S:N440K', 'S:I468F']	51	0	NA
+['S:K417N', 'S:DEL432', 'S:N440K']	29	0	NA
+['S:K417N', 'S:D420E', 'S:N440K']	10	0	NA
+['S:K417N', 'S:D420E', 'S:N440K', 'S:L452Q']	17	0	NA
+['S:K417N', 'S:A419T', 'S:N440K', 'S:L452Q']	19	0	NA
+['S:K417N', 'S:N437S', 'S:N440K', 'S:L452Q']	11	0	NA
+['S:K417N', 'S:N440K', 'S:L452Q', 'S:S459P']	10	1	['ba.2.12.1']
+['S:E484A', 'S:C488F', 'S:Q493R', 'S:Q498R', 'S:N501Y', 'S:Y505H']	16	1	['ba.1.1']
+['S:K417N', 'S:N440K', 'S:G446G', 'S:L452Q']	12	2	['bg.5']
+['S:G416G', 'S:K417N', 'S:N440K', 'S:L452Q']	12	2	['ba.2.12.1']
+['S:C336R', 'S:G339D', 'S:S371F', 'S:S373P']	10	3	['ba.2', 'ba.2.9', 'ba.5.5']

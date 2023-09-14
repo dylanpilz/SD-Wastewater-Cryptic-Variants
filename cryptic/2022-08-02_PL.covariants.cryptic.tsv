@@ -1,0 +1,4 @@
+Covariants	WW_Count	Clinical_Count	Lineages
+['S:F338S', 'S:G339D']	11	2	['ba.1.17.2', 'ba.5.10']
+['S:C336R', 'S:G339D']	20	3	['ba.2', 'ba.2.9', 'ba.5.5']
+['S:K417N', 'S:N440K', 'S:L452R', 'S:S459P']	13	4	['ba.5.2', 'bq.1.1', 'ba.5', 'ba.4.8']

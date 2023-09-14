@@ -1,0 +1,3 @@
+Covariants	WW_Count	Clinical_Count	Lineages
+['S:G416E', 'S:K417N', 'S:N440K', 'S:L452Q']	16	0	NA
+['S:K417N', 'S:N440K', 'S:N460D']	12	2	['ba.5.2.1', 'xbb.1.16.1']
