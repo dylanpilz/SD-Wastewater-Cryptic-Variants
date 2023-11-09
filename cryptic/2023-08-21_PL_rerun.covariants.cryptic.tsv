@@ -1,0 +1,10 @@
+Covariants	WW_Count	Clinical_Count	Lineages
+['S:K417N', 'S:N440K', 'S:V445P', 'S:G446S', 'S:DEL463']	42	0	[]
+['S:K417N', 'S:N440K', 'S:V445P', 'S:G446S', 'S:F456L', 'S:DEL463']	11	0	[]
+['S:K417N', 'S:N440K', 'S:V445P', 'S:G446S', 'S:F456L', 'S:N460K', 'S:K462L', 'S:DEL463']	14	0	[]
+['S:K417N', 'S:N440K', 'S:V445P', 'S:G446S', 'S:K462L', 'S:DEL463']	67	0	[]
+['S:K417N', 'S:N440K', 'S:V445P', 'S:G446S', 'S:N460K', 'S:DEL463']	14	0	[]
+['S:K417N', 'S:N440K', 'S:V445P', 'S:G446S', 'S:N460K', 'S:K462L', 'S:DEL463']	118	0	[]
+['S:K462L', 'S:DEL463']	22	0	[]
+['S:N460K', 'S:DEL464']	14	0	[]
+['S:N460K', 'S:K462L', 'S:DEL463']	32	0	[]
