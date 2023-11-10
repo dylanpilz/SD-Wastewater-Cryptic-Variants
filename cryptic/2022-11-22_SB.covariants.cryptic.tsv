@@ -1,7 +1,0 @@
-Covariants	WW_Count	Clinical_Count	Lineages
-['S:K417N', 'S:N437I', 'S:N440K', 'S:K444T', 'S:L452R']	18	0	NA
-['S:K417N', 'S:N440K', 'S:K444T', 'S:L452R', 'S:R457M', 'S:N460K']	11	0	NA
-['S:K417N', 'S:N440K', 'S:K444T', 'S:L452R', 'S:R457M']	17	0	NA
-['S:K417N', 'S:N440K', 'S:L452R', 'S:DEL463']	11	0	NA
-['S:K417N', 'S:N440K', 'S:V445A', 'S:L452R', 'S:K462R']	11	0	NA
-['S:K417N', 'S:N440K', 'S:N448N', 'S:N450D', 'S:L452R']	10	2	['ba.5.2.1']

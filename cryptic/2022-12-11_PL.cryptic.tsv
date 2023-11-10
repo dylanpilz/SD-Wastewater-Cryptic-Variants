@@ -1,0 +1,3 @@
+Covariants	WW_Count	Clinical_Count	Lineages
+['S:G413S', 'S:K417N', 'S:N440K', 'S:G446S', 'S:N460K']	13	3	[]
+['S:G413S', 'S:K417N', 'S:N440K', 'S:G446S']	12	3	['ay.25']

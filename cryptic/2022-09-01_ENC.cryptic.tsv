@@ -1,0 +1,4 @@
+Covariants	WW_Count	Clinical_Count	Lineages
+['S:K417N', 'S:A419I', 'S:N440K', 'S:L452R']	67	0	[]
+['S:K417N', 'S:L425S', 'S:N440K', 'S:L452R']	20	9	['ck.2.1', 'b.1', 'bq.1.1', 'bf.5', 'b', 'xbb.1.19.1', 'xbb.1.5', 'ay.103']
+['S:K417N', 'S:V433A', 'S:N440K', 'S:L452R']	11	10	['ba.2.38', 'xbb.1.16', 'ay.122', 'ay.44', 'b.1.1.7', 'ba.1.1']
